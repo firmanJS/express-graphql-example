@@ -1,0 +1,30 @@
+{
+  "name": "express-graphql-example",
+  "version": "1.0.0",
+  "description": "express graphql simple example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmanJS/express-graphql-example.git"
+  },
+  "keywords": [
+    "expressjs",
+    "graphql"
+  ],
+  "author": "firmanjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firmanJS/express-graphql-example/issues"
+  },
+  "homepage": "https://github.com/firmanJS/express-graphql-example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "lodash": "^4.17.15",
+    "uuid": "^8.0.0"
+  }
+}
